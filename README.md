@@ -15,6 +15,24 @@ The dashboards transform operational and commercial data into actionable insight
 
 ---
 
+## 📊 Executive Dashboard
+
+![Executive Summary](Dashboard/Executive_Summary.png)
+
+## 🏭 Factory & Production Performance
+
+![Factory Performance](Dashboard/Factory_Production_Performance.png)
+
+## 🌎 Buyer & Commercial Performance
+
+![Buyer Performance](Dashboard/Buyer_Commercial_Performance.png)
+
+## 🧵 Product & Quality Performance
+
+![Product Performance](Dashboard/Product_Quality_Performance.png)
+
+--- 
+
 # 🎯 Business Objectives
 
 The primary objectives of this project were to:
